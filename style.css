@@ -5,6 +5,6 @@ p{
 }
 ul{border-style: solid;
         color: purple;
-        width: 90px;
-        Border-width: thick;
+        width: 100px;
+        Border-width: 5px;
 }
