@@ -3,8 +3,8 @@ p{
   background-color: black;
   font-size: 50px;
 }
-header {border-style: solid;
+ul{border-style: solid;
         color: purple;
         width: 90px;
-        Border-width: 15px;
+        Border-width: thick;
 }
